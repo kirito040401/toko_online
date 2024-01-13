@@ -1,0 +1,37 @@
+.icon-nav{
+    position: relative;
+    color:white;
+}
+.icon-nav:hover{
+    color:blue;
+}
+.circle{
+    position:absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 60px;
+    background-color: rgba(240, 88, 88, 0.95);
+    color:white;
+    text-align: center;
+    font-size: 14px;
+    top:10px;
+    right: 140px;
+}
+
+/* style footer */
+
+section{
+    min-height: 80vh;
+}
+
+footer{
+    position: static;
+    bottom: 0;
+    background-color: #025464;
+    color: white;
+}
+
+/* .title-sosmed{
+    position: absolute;
+    margin-left: 20px;
+} */
